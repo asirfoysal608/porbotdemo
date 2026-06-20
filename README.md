@@ -1,3 +1,4 @@
 # porbotdemo
-this is my 1st git repository
-author=Porbot
+This Is My 1st Git Repository
+<br>
+Author=Porbot
